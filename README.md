@@ -1,2 +1,0 @@
-# IosSwift
-RegistrationPageVerticalHorizontal
